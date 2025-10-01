@@ -1,6 +1,6 @@
 # EDS 220 In-Class Repository
 
-This repository hosts all the work completed by Joshua Ferrer-Lozano during the EDS 220 - *Working with Environmental Data* lectures.
+This repository hosts all the work completed by Joshua Ferrer-Lozanoo during the EDS 220 - *Working with Environmental Data* lectures.
 
 ## Course Information
 
