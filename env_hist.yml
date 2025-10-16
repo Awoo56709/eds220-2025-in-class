@@ -1,0 +1,12 @@
+name: test-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - conda-forge
+  - rioxarray
+  - pip=23.3.1
+  - matplotlib=3.7.1
+  - numpy
+  - ipykernel
+  - geopandas=0.13.2
